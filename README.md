@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Research Name
+# Research StimulusReflex with Ruby on Rails
 
 ![project image](images/research.png)
 
