@@ -31,3 +31,6 @@ Here are some guidelines and articles about this subject.
 * [ ] [Futurism](https://github.com/julianrubisch/futurism)
 * [ ] [Reactive Rails applications with StimulusReflex](https://dev.to/finiam/reactive-rails-applications-with-stimulusreflex-48kn)
 * [ ] [Just Another Twitter Clone with Rails 6, CableReady, and Stimulus Reflex](https://medium.com/@emmanuel.oseguera/rails-cableready-and-stimulus-reflex-a90dc297a975)
+
+Rails View Components
+* [_] [Using View Components to Create Reusable Views - Part 1](https://www.youtube.com/watch?v=oKqJmEAn-X0&list=PLjItgYqIzJ9XVuPwpVPPa7GqFnI15V43d&index=1)
